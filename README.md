@@ -9,6 +9,8 @@ headless ui
 
 TypeScript
 
+GPT-3.5
+
 zustand
 
 Next.js
