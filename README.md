@@ -1,4 +1,4 @@
-<h4>This is a simple clickup project, integrated with openai to explain the currents tasks</h4>
+<h4>This is a simple clickup project, integrated with openai to explain the currents tasks with search functionality</h4>
 
 
 ![image](https://github.com/albindominix/clickup/assets/84988103/45d2c6a4-5711-4f1f-9f3d-7d9798ec4bab)
