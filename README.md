@@ -1,6 +1,6 @@
 This is a simple clickup project.
 
-#Built Using
+<h1>Built Using</h1>
 
 
 tailwind css
@@ -19,7 +19,7 @@ appwrite
 
 Vercel
 
-#Running Locally
+<h1>Running Locally</h1>
 
 git clone https://github.com/albindominix/clickup.git
 
