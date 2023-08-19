@@ -6,7 +6,8 @@
 
 <h2>Modal form to add tasks</h2>
 
-![image](https://github.com/albindominix/clickup/assets/84988103/b2aab97d-5aa6-4535-a795-7851ea17804f)
+![image](https://github.com/albindominix/clickup/assets/84988103/ae89c86a-6fa5-4874-8dae-7e953552ea54)
+
 
 
 <h1>Built Using</h1>
