@@ -69,7 +69,6 @@ export const useBoardStore = create<BoardStore>((set, get) => ({
     );
   },
 
-  //3:39:00
   addTask: async (todo: string, columnId: TypedColumn, image?: File | null) => {
     let file: Image | undefined;
 
