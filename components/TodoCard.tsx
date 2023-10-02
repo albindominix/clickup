@@ -27,7 +27,6 @@ function TodoCard({
  const [imageUrl,setImageUrl] =useState<string | null>(null)
 
  useEffect(()=>{
-  // 3:40::00
   console.log(todo)
 
     if(todo.image){
